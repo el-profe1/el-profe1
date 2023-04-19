@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently teaching NoSQL.
 - 📫 How to reach me: deloaiza26@misena.edu.co
 
 <!--
